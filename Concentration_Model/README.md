@@ -17,6 +17,6 @@ Other info:
 
 1. Copy/Download the `Concentration.py` script contents
 2. Run it with `python path/filename.py`
-  - Where `path/filename.py` is the path to the script
+  - Where `path/filename.py` is the local path to the script
 3. After a bit a file named `Concentration.html` should be generated in the folder where the script is located
 4. Open the html browser and take a look at the interactive model!
